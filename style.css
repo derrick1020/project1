@@ -3,9 +3,9 @@
     padding: 0;
     margin: 0;
 }
-
 body {
     background-color: #d9dcd6;
+    
 }
 
 .header {
@@ -54,7 +54,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("https://image.shutterstock.com/image-photo/creative-agency-meeting-group-business-600w-407327212.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -70,20 +70,21 @@ p {
 }
 
 .content {
-    width: 75%;
+    width: 100;
     display: inline-block;
     margin-left: 20px;
+    
 }
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
-    width: 20%;
-    height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    height: 154%;
+
+
 }
 
 .benefit-lead {
@@ -97,7 +98,7 @@ p {
 }
 
 .benefit-cost {
-    margin-bottom: 32px;
+    margin-bottom: 36px;
     color: #ffffff;
 }
 
@@ -136,8 +137,9 @@ p {
 
 .search-engine-optimization {
     margin-bottom: 20px;
+    width: 70%;
     padding: 50px;
-    height: 300px;
+    height: 400px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
@@ -145,6 +147,7 @@ p {
 
 .online-reputation-management {
     margin-bottom: 20px;
+    width: 70%;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -154,6 +157,7 @@ p {
 
 .social-media-marketing {
     margin-bottom: 20px;
+    width: 70%;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
